@@ -22,8 +22,6 @@ How to Use:
 
     Clone the repository:
 
-git clone https://github.com/yourusername/caesar-cipher.git
-
 Run the program:
 
     python caesar_cipher.py
